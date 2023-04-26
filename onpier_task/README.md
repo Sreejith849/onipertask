@@ -23,5 +23,3 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 Download and install Java, Chromedriver and VS Code on your local machine
 
 Clone the repo and navigate to qaautomation/tests/thgPramieTestCase.java to run the automation script. Please be noted and you will be needed to specify the path of the file that needs to be uploaded. You can simply replace <FILD-PATH> from upload method called "uploadFilePageShouldBeLoaded" which is in payment_page.java file
-
-The automation script was written and executed in mac os.
